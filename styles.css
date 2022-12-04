@@ -1,0 +1,161 @@
+
+body{
+  color:#40514E;
+  margin: 5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  padding-bottom: 10px;
+  font-size: 3.5rem;
+}
+
+h3{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.buttonClass {
+  font-size:16px;
+  font-family:'Montserrat',sans-serif;
+  width:100px;
+  height:30px;
+  border-width:1px;
+  color:#ffff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  text-shadow: 1px 1px 0px #2f6627;
+  text-align: center;
+  display: inline-block;
+  padding: 5px 5px;
+  background:rgba(17, 205, 212, 1);
+}
+
+.buttonClass:hover {
+  background: rgba(48, 227, 203, 1)
+}
+
+
+
+.top-container{
+  background-color:#EAF6F6;
+  position: relative;
+  padding-top: 5%;
+  padding-bottom:5%;
+  margin: auto;
+
+}
+
+.top-cloud{
+  position: absolute;
+  bottom:470px;
+  left:1000px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 100px;
+  right: 1000px;
+}
+
+.middle-container{
+  margin: 100px auto;
+  color:
+}
+
+
+.programming{
+  width: 25%;
+}
+
+.Me{
+  display: inline-block;
+  width: 30%;
+  margin: auto;
+}
+
+
+
+.bottom-container{
+  background-color:  #66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+.developer{
+  text-decoration: underline;
+}
+
+  .Designer{
+  background-color: yellow;
+ }
+
+ .skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 1;
+ }
+
+ .coding{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: right;
+   line-height: 1;
+ }
+
+.mountain{
+  margin: auto auto 50px auto;
+}
+
+.delaw{
+  width: 25%;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px ;
+}
+
+.copyright{
+  color: #EAF6F6;
+}
